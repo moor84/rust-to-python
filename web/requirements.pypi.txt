@@ -1,0 +1,3 @@
+flask==1.1.2
+gunicorn>=19,<20
+mylib-rust==1.0

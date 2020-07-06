@@ -1,0 +1,8 @@
+Dockerfile
+Dockerfile.devpi
+becnhmark/
+cython/
+env/
+package/
+.pytest_cache/
+.git/

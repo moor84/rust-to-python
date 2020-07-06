@@ -1,0 +1,15 @@
+[package]
+name = "mylib"
+version = "0.1.0"
+authors = ["Mikhail Medvedev <moorck84@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "mylib"
+crate-type = ["cdylib"]
+
+[dependencies.cpython]
+version = "0.5"
+features = ["extension-module"]
+
+[dependencies]

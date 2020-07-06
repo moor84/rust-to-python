@@ -1,0 +1,11 @@
+mylib.so
+__pycache__/
+.pytest_cache/
+.benchmarks
+
+target/
+Cargo.lock
+
+env/
+
+.vscode/
