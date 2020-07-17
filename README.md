@@ -1,6 +1,6 @@
 # Extending Python with Rust
 
-This repository contains code for the article "Extending Python with Rust: a Tower of Babel".
+This repository contains code for the article [How to use Rust to extend Python](https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819).
 
 ## Contents
 
